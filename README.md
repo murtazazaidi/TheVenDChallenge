@@ -15,10 +15,10 @@ You are Census Director of Quetta. Approximate population of Quetta is 1 million
     2. To retrieve the data for a single person: It will be based on index of that person as per the JSON input file.
 
 # Expected Solution will contain:
-(a) Solution file
-(b) Maximum memory required for solution
-(c) Maximum Retrieval time of any random single record
-(d) Any means/code used to calculate the (b) and (c)
+1. Solution file
+2. Maximum memory required for solution
+3. Maximum Retrieval time of any random single record
+4. Any means/code used to calculate the (2) and (3)
 
 # Languages Allowed:
 C, C++, C#, Java
